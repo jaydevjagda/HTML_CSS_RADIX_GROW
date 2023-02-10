@@ -1,0 +1,2 @@
+give border in bottom of table 
+border bottom css property
